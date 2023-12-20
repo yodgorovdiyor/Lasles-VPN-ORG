@@ -117,6 +117,7 @@ h1 {
 	background-color: #FFFFFF;
 	color: #F53838;
 	border: 2px solid #F53838;
+	transition: 1s;
 }
 
 .img-place {
